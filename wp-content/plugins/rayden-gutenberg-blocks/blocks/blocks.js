@@ -191,7 +191,7 @@
 		attributes: {
 			background_color: {
 				type: 'string',
-				default: '#141414'
+				default: '#F5E3CB'
 			},
 			background_type: {
 				type: 'string',

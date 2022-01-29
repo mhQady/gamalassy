@@ -397,7 +397,7 @@ add_shortcode('half_background_container', 'shortcode_half_background_container'
 function shortcode_half_background_container( $atts, $content = null ) {
 
 	$atts = shortcode_atts(array(
-		'bg-color' => '#141414',
+		'bg-color' => '#F5E3CB',
 		'bg-type' => 'half-dark-section',
 		'extra_class_name' => ''
     ), $atts );

@@ -992,7 +992,7 @@
 	}
 	
 	.light-content .woocommerce table.shop_table td {
-		border-top: 1px solid #141414;
+		border-top: 1px solid #F5E3CB;
 	}
 	
 	.woocommerce-cart table.cart td.product-remove a.remove {
@@ -1140,7 +1140,7 @@
 	}
 	
 	.light-content .woocommerce .shop_table.woocommerce-checkout-review-order-table td, .light-content .woocommerce .shop_table.woocommerce-checkout-review-order-table th {
-		border-top: 1px solid #141414;
+		border-top: 1px solid #F5E3CB;
 	}
 	
 	.woocommerce .shop_table.woocommerce-checkout-review-order-table th.product-total, .woocommerce .shop_table.woocommerce-checkout-review-order-table td.product-total {
