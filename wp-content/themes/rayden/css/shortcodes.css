@@ -995,7 +995,7 @@ a.link:hover::before {
 }
 
 .light-content .clapat-icon {
-  color: #fff;
+  color: #004e42;
 }
 
 .light-content .white-section .clapat-icon {
@@ -1347,7 +1347,7 @@ input[type="search"] {
 .light-content input[type="search"],
 .light-content input[type="tel"],
 .light-content textarea {
-  color: rgba(255, 255, 255, 1);
+  color: #004e42;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 

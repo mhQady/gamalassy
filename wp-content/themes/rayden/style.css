@@ -657,7 +657,7 @@ h6 {
 .light-content h4,
 .light-content h5,
 .light-content h6 {
-  color: #fff;
+  color: #004e42;
 }
 
 .light-content .white-section h1,
@@ -762,7 +762,7 @@ a {
 }
 
 .light-content a {
-  color: #fff;
+  color: #004e42;
 }
 
 a:hover {
@@ -1438,7 +1438,7 @@ scale-up .link,
 }
 
 .light-content.preloader-wrap {
-  background: #000;
+  background: #f5e3cb;
 }
 
 .preloader-wrap .outer {
@@ -1495,7 +1495,7 @@ scale-up .link,
 .light-content .percentage,
 .light-content .percentage:after,
 .light-content .percentage-intro {
-  color: #fff;
+  color: #004e42;
 }
 
 .trackbar {
@@ -1519,7 +1519,7 @@ scale-up .link,
 }
 
 .light-content .loadbar {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(245, 227, 203, 1);
 }
 
 .hold-progress-bar {
@@ -1548,7 +1548,7 @@ scale-up .link,
 }
 
 .light-content .preloader-intro {
-  color: #fff;
+  color: #004e42;
 }
 
 /*--------------------------------------------------
@@ -2230,11 +2230,11 @@ nav.open {
 }
 
 .light-content #menu-burger span {
-  background-color: #fff;
+  background-color: #188c77;
 }
 
 .white-header #menu-burger span {
-  background-color: #fff;
+  background-color: #188c77;
 }
 
 .light-content .white-header #menu-burger span {
@@ -2243,7 +2243,7 @@ nav.open {
 
 .light-content .white-header.over-white-section #menu-burger span,
 .show-loader .light-content .white-header #menu-burger span {
-  background-color: #fff;
+  background-color: #188c77;
 }
 
 #menu-burger span:nth-child(1) {
@@ -2446,7 +2446,7 @@ footer.showcase-footer {
 }
 
 .light-content .copyright {
-  color: #fff;
+  color: #004e42;
 }
 
 .socials-wrap {
@@ -2698,7 +2698,7 @@ footer .socials-wrap {
 }
 
 .light-content .button-icon {
-  color: #fff;
+  color: #188c77;
 }
 
 .button-icon i {
@@ -2725,7 +2725,7 @@ footer .socials-wrap {
   overflow: hidden;
   width: auto;
   padding: 0 10px;
-  color: #000;
+  color: #f5e3cb;
   -webkit-transition: color 0.05s ease-in-out;
   transition: color 0.05s ease-in-out;
 }
@@ -2778,11 +2778,11 @@ footer .socials-wrap {
 }
 
 .light-content .button-text {
-  color: #fff;
+  color: #004e42;
 }
 
 .white-header .button-text {
-  color: #fff;
+  color: #004e42;
 }
 
 .light-content .white-header .button-text {
@@ -2791,7 +2791,7 @@ footer .socials-wrap {
 
 .light-content .white-header.over-white-section .button-text,
 .show-loader .light-content .white-header .button-text {
-  color: #fff;
+  color: #004e42;
 }
 
 .button-wrap.left .button-text {
@@ -2820,6 +2820,7 @@ footer .socials-wrap {
 
 .button-wrap.right .button-text span {
   text-align: right;
+  display: none;
 }
 
 .button-text span::before {

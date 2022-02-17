@@ -85,7 +85,7 @@
 	}
 	
 	.light-content #open-sidebar {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#open-sidebar:hover, #open-sidebar-nav:hover {
@@ -108,7 +108,7 @@
 	}
 	
 	.light-content #open-sidebar-nav {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#open-sidebar.open {
@@ -148,7 +148,7 @@
 	}
 	
 	.light-content .rayden-widgettitle:after {
-		background: none repeat scroll 0 0 #fff;
+		background: none repeat scroll 0 0 #004E42;
 	}
 	
 	.widgettitle a {
@@ -156,7 +156,7 @@
 	}
 	
 	.light-content .widgettitle a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#sidebar .search {
@@ -180,7 +180,7 @@
 	}
 	
 	.light-content #sidebar .search:after {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.rayden-sidebar-widget ul {
@@ -220,7 +220,7 @@
 	}
 	
 	.light-content .rayden-sidebar-widget ul li a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.rayden-sidebar-widget .tag-cloud-link {
@@ -243,7 +243,7 @@
 	
 	.light-content .rayden-sidebar-widget .tag-cloud-link {
 		border: 1px solid rgba(255,255,255,0.2);
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.rayden-sidebar-widget .tag-cloud-link:hover {
@@ -268,7 +268,7 @@
 	}
 	
 	.light-content #wp-calendar caption {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#wp-calendar thead { 
@@ -284,7 +284,7 @@
 	}
 	
 	#wp-calendar tbody td {
-		background: #fff;
+		background: #004E42;
 		border: 1px solid #eee;
 		text-align: center;
 		padding: 8px;
@@ -300,16 +300,16 @@
 	}
 	
 	.light-content #wp-calendar a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#wp-calendar tbody td:hover { 
 		background: #000; 
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#wp-calendar tbody td:hover a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	#wp-calendar tbody .pad { 
@@ -351,7 +351,7 @@
 		display: block;
 		width: 100%;
 		height: 40px;
-		background: #fff;
+		background: #004E42;
 		line-height: 40px;
 		margin-top:20px;
 	}
@@ -400,7 +400,7 @@
 	}
 	
 	.select:hover::after {
-		color: #fff;
+		color: #004E42;
 	}
 	
 	.select::after {
@@ -639,7 +639,7 @@
 	}
 	
 	.light-content .post-title {
-		color:#fff;
+		color:#004e42;
 	}
 	
 	.scale-title .post-title {
@@ -684,7 +684,7 @@
 	}
 	
 	.light-content .entry-meta li a, .light-content .entry-meta li {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.entry-categories {
@@ -755,7 +755,7 @@
 	}
 	
 	.light-content .entry-tags li:first-child:after {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.entry-categories li a span, .entry-tags li a span, .entry-date li a span {
@@ -951,7 +951,7 @@
 	}
 	
 	.light-content .post-next-title a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.post-next-title span {
@@ -964,7 +964,7 @@
 	}
 	
 	.light-content .post-next-title span {
-		background-image: linear-gradient(transparent calc(100% - 3px), #fff 1px);
+		background-image: linear-gradient(transparent calc(100% - 3px), #004E42 1px);
 	}
   
   	.post-next-title:hover span {    
@@ -1132,11 +1132,11 @@
 	}
 	
 	.light-content .comment-head {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.light-content .comment-head a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.comment-head span {
@@ -1152,7 +1152,7 @@
 	}
 	
 	.light-content .comment-head span a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.comment-text {
@@ -1161,7 +1161,7 @@
 	}
 	
 	.light-content .comment-text a {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.user_comment_reply {
@@ -1253,12 +1253,12 @@
 	
 	.light-content .post-password-form input[type="submit"] {
 		background-color:rgba(255,255,255,0.3)!important;
-		color:#fff!important;
+		color:#004E42!important;
 
 	}
 	
 	.post-password-form input[type="submit"] {
-		color: #fff;
+		color: #004E42;
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
 		font-size: 14px;
@@ -1273,7 +1273,7 @@
 	
 	input[type="submit"] {
 		background-color:transparent!important;
-		color:#fff!important; 
+		color:#004E42!important; 
 	}
 	
 	.post-password-form input[type="submit"]::after {
@@ -1300,7 +1300,7 @@
 	}
 	
 	input[type="password"] {
-		background:#fff;
+		background:#004E42;
 		box-sizing:border-box;
 		border-radius:3px;
 		padding:10px;
@@ -1317,7 +1317,7 @@
 	}
 	
 	.light-content .logged-in-as a {
-		color:#fff;
+		color:#004E42;
 	}
 		
 	.comment-respond {
@@ -1401,7 +1401,7 @@
 	}
 	
 	.light-content #blog-wrap::after {
-		background-color: #fff;
+		background-color: #004E42;
 		opacity:0.15;
 	}
 	
@@ -1449,7 +1449,7 @@
 	}
 	
 	.light-content #blog-navigation i {
-		color:#fff;
+		color:#004E42;
 		opacity:0.2;
 	}
 	
@@ -1458,7 +1458,7 @@
 	}
 	
 	.light-content #blog-navigation a i {
-		color:#fff;
+		color:#004E42;
 		opacity:1;
 	}
 	
@@ -1488,7 +1488,7 @@
 	}
 	
 	.light-content .blog-numbers {
-		color: #fff;
+		color: #004E42;
 	}
 	
 	.blog-numbers .blog-active {
@@ -1571,7 +1571,7 @@
 ---------------------------------------------------*/		
 	
 	.light-content .is-style-outline .wp-block-button__link, .wp-block-button__link.is-style-outline {
-		color: #fff;
+		color: #004E42;
 	}
 	
 	.post.sticky {
@@ -1686,7 +1686,7 @@
 	}
 	
 	.light-content .post-password-form label {
-		color: #fff;
+		color: #004E42;
 	}
 	
 	article .page-links {

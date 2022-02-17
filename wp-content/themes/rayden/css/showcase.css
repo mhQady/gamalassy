@@ -142,7 +142,7 @@
 	}
 	
 	.light-content .slide-title {
-		color:#fff;
+		color:#004E42;
 	}
 	
 	.swiper-slide .outer .slide-title.active-title {
@@ -1121,11 +1121,11 @@
 	}
 	
 	.light-content .swiper-pagination-bullet .path {
-		stroke:#fff;
+		stroke:#004E42;
 	}
 	
 	 .light-content .swiper-pagination-bullet .solid-fill {
-		 fill:#fff;
+		 fill:#004E42;
 	 }
 	
 	.path {

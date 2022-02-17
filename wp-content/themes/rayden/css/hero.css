@@ -132,7 +132,7 @@
 }
 
 .hero-title span {
-  display: block;
+  /* display: none; */
   transform: translateY(230px);
   -webkit-transform: translateY(230px);
 }
@@ -593,4 +593,11 @@
   #hero-footer {
     padding: 10px 20px;
   }
+}
+
+.contact-hero {
+  text-align: center;
+  color: #004e42 !important;
+  font-weight: bold;
+  font-size: 52px;
 }
